@@ -1,4 +1,5 @@
 console.log('TEST // JavaScript Document !!>?');
+//alert('');
 
 function callbackLoad(){
   console.log('LOADESSSSSSS');
@@ -6,8 +7,6 @@ function callbackLoad(){
 
 
 
-
-//alert('');
 function loadScript(url, callback){
 
     console.log('LOADESSSSSSS');
